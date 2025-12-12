@@ -36,7 +36,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
 | [Jogo do número secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples em Java para sorteio de números secretos | HTML, JavaScript, CSS | ✔️ Concluído |
-| [Currículo Web com HTML e CSS](https://github.com/Eduvortexx/Curr-culo-Web) | Página pessoal com design responsivo | HTML, CSS | ✔️ Concluído |
+| [Currículo Web com HTML e CSS](https://github.com/Eduvortexx/Curr-culo-Web) | Página pessoal com design responsivo | HTML, CSS | 🕝 Em desenvolvimento |
 
 ---
 
