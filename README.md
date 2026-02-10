@@ -41,17 +41,17 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema Web para análise de feedbacks | HTML, CSS, JavaScript, ASP.NET | 🕝 Em desenvolvimento (privado) |
 ---
 
-## Estatísticas do GitHub
+## Minhas Estatísticas do GitHub
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats - geral -->
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api?username=Eduvortexx&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8e44ad&border_color=2a004a" />
+       src="https://github-readme-stats.vercel.app/api?username=Eduvortexx&show_icons=true&bg_color=ffffff&title_color=8e44ad&text_color=000000&icon_color=ff8c42&border_color=8e44ad" />
 
   <!-- Top Languages -->
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvortexx&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=2a004a" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvortexx&layout=compact&bg_color=ffffff&title_color=8e44ad&text_color=000000&border_color=8e44ad" />
 
 </div>
 
