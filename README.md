@@ -44,9 +44,15 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduvortexx&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8e44ad&border_color=2a004a"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvortexx&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=2a004a"/>
+
+  <!-- GitHub Stats -->
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=Eduvortexx&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=8e44ad&border_color=2a004a" />
+
+  <!-- Top Languages -->
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvortexx&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=2a004a" />
+
 </div>
 
 
