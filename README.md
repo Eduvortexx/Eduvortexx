@@ -41,7 +41,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema Web para análise de feedbacks | HTML, CSS, JavaScript, ASP.NET | 🕝 Em desenvolvimento |
 ---
 
-## 📈 Histórico de Commits
+## Histórico de Commits
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 
 ---
 
-## Contato / Redes sociais
+## Contato 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-silva-03670920a/)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduvortexx@icloud.com)
