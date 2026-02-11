@@ -54,6 +54,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 
 ## Contato / Redes sociais
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduvortexx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-silva-03670920a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduvortex_x/)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduvortexx@icloud.com)
+
+
