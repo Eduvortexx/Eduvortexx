@@ -37,7 +37,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 | Projeto | Descrição | Tecnologias | Status |
 |----------|------------|--------------|----------|
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema web para análise de feedbacks | HTML, CSS, Node.js | 🕝 Em desenvolvimento |
-| [Currículo Web](https://meu-curr-rulo-web.vercel.app/) | Página pessoal com design minimalista e dark mode | HTML, CSS, JavaScript | 🕝 Em desenvolvimento |
+| [Currículo Web](https://github.com/Eduvortexx/MeuCurr-ruloWeb) | Página pessoal com design minimalista e dark mode | HTML, CSS, JavaScript | 🕝 Em desenvolvimento |
 | [Projeto em Python – Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Projeto pessoal de análise de dados | Python | ✔️ Concluído |
 | [Jogo do Número Secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples para sorteio de números secretos | HTML, CSS, JavaScript | ✔️ Concluído |
 
