@@ -32,15 +32,15 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 
 ## Projetos
 
+## 🚀 Projetos
 
 | Projeto | Descrição | Tecnologias | Status |
-|--------|-----------|-------------|--------|
----
-| [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema Web para análise de feedbacks | HTML, CSS, NODE.JS | 🕝 Em desenvolvimento |
-| [Currículo Web](https://meu-curr-rulo-web.vercel.app/) | Página pessoal com design minimalista | HTML, CSS e JS | 🕝 Em desenvolvimento |
-| [Projeto em Python - Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Análise de dados - projeto pessoal | Python | ✔️ Concluído |
-| [Jogo do número secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples em Java para sorteio de números secretos | HTML, JavaScript, CSS | ✔️ Concluído |
----
+|----------|------------|--------------|----------|
+| [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema web para análise de feedbacks | HTML, CSS, Node.js | 🕝 Em desenvolvimento |
+| [Currículo Web](https://meu-curr-rulo-web.vercel.app/) | Página pessoal com design minimalista e dark mode | HTML, CSS, JavaScript | 🕝 Em desenvolvimento |
+| [Projeto em Python – Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Projeto pessoal de análise de dados | Python | ✔️ Concluído |
+| [Jogo do Número Secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples para sorteio de números secretos | HTML, CSS, JavaScript | ✔️ Concluído |
+
 
 ## Histórico de Commits
 
