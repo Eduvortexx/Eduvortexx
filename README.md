@@ -35,7 +35,7 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-
+---
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema Web para análise de feedbacks | HTML, CSS, NODE.JS | 🕝 Em desenvolvimento |
 | [Currículo Web](https://meu-curr-rulo-web.vercel.app/) | Página pessoal com design minimalista | HTML, CSS e JS | 🕝 Em desenvolvimento |
 | [Projeto em Python - Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Análise de dados - projeto pessoal | Python | ✔️ Concluído |
