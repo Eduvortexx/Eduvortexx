@@ -35,10 +35,11 @@ Estou construindo meu portfólio aos poucos, com foco em crescimento constante.
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| [Jogo do número secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples em Java para sorteio de números secretos | HTML, JavaScript, CSS | ✔️ Concluído |
-| [Currículo Web com HTML e CSS](https://github.com/Eduvortexx/Curr-culo-Web) | Página pessoal com design responsivo | HTML, CSS | 🕝 Em desenvolvimento |
-| [Projeto em Python - Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Análise de dados - projeto pessoal | Python | ✔️ Concluído |
+
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema Web para análise de feedbacks | HTML, CSS, NODE.JS | 🕝 Em desenvolvimento |
+| [Currículo Web](https://meu-curr-rulo-web.vercel.app/) | Página pessoal com design minimalista | HTML, CSS e JS | 🕝 Em desenvolvimento |
+| [Projeto em Python - Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Análise de dados - projeto pessoal | Python | ✔️ Concluído |
+| [Jogo do número secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples em Java para sorteio de números secretos | HTML, JavaScript, CSS | ✔️ Concluído |
 ---
 
 ## Histórico de Commits
