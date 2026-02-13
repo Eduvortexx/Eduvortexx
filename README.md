@@ -1,13 +1,10 @@
-melhore o código que eu uso no readme.md de perfil do github para corrigir possíveis bugs e imagens quebradas:
-
 # 👋 Olá, Devs!
 
 <h1 align="center">Eu sou o Eduardo Silva</h1>
 <h3 align="center">Desenvolvedor em formação | Front-end & Back-end</h3>
 
 <p align="center">
-  Sempre evoluindo, sempre construindo.  
-  Transformando aprendizado em projetos reais.
+  Sempre evoluindo, sempre construindo. Transformando aprendizado em projetos reais.
 </p>
 
 ---
