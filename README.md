@@ -87,8 +87,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:eduvortexx@icloud.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minutemailer.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="35"/>
 </a>
+
 
 ---
 
