@@ -40,10 +40,11 @@
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Análise de Dados
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
 ---
@@ -86,9 +87,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:eduvortexx@icloud.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minutemailer.svg" height="35"/>
+</a>
 
 ---
 
