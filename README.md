@@ -86,9 +86,7 @@
 
 
 <p align="center">
-
-  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"5px">
-
+ <img src="https://i.pinimg.com/originals/d9/6e/5a/d96e5a6378c00a1fca5fcdf3e4dcf02b.gif">
 </p>
 
 
