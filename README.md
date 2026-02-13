@@ -8,7 +8,9 @@
   Transformando aprendizado em projetos reais.
 </p>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/020/838/567/original/vinicius-leonidas-saga-de-gemeos-2.gif?1569358329" width="200px">
+<p align="center">
+  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"220px">
+</p>
 
 ---
 
