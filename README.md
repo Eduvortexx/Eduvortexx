@@ -1,6 +1,6 @@
 # 👋 Olá, Devs!
 
-<h1 align="center">Eu sou o Eduardo Silva 🚀</h1>
+<h1 align="center">Eu sou o Eduardo Silva</h1>
 <h3 align="center">Desenvolvedor em formação | Front-end & Back-end</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 💻 Desenvolvedor em formação  
 📚 Sempre aprendendo novas tecnologias  
@@ -19,9 +19,9 @@
 
 ---
 
-## 🧠 Tecnologias
+## Tecnologias
 
-### 🎨 Front-end
+### Front-end
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚙️ Back-end
+### Back-end
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
@@ -40,7 +40,7 @@
 
 ---
 
-### 🗄️ Análise de Dados
+### Análise de Dados
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 | Projeto | Descrição | Tecnologias | Status |
 |----------|------------|--------------|----------|
@@ -77,7 +77,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-silva-03670920a/">
