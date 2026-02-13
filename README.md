@@ -72,16 +72,17 @@ melhore o código que eu uso no readme.md de perfil do github para corrigir poss
 
 ---
 
-## Contato
+## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-silva-03670920a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:eduvortexx@icloud.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="35"/>
-</a>
+  <a href="https://www.linkedin.com/in/eduardo-silva-03670920a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="mailto:eduvortexx@icloud.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="email" width="40" height="40">
+  </a>
+</p>
 
 
 ---
