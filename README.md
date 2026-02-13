@@ -8,10 +8,6 @@
   Transformando aprendizado em projetos reais.
 </p>
 
-<p align="center">
-  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"5px">
-</p>
-
 ---
 
 ## Sobre mim
@@ -97,6 +93,10 @@
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
+</p>
+
+<p align="center">
+  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"5px">
 </p>
 
 
