@@ -80,7 +80,8 @@
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil! <br><br>
-  <img src="https://media.giphy.com/media/v1.Y2
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXFueXFueXFueXFueXFueXFueXFueXFueXFueXFueXFmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f6vxcvshSxqY6SshlJ/giphy.gif" width="100px">
+</p>
 
 
 
