@@ -72,13 +72,6 @@ melhore o código que eu uso no readme.md de perfil do github para corrigir poss
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduvortexx&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduvortexx&theme=default&hide_border=true" height="170"/>
-</p>
-
----
-
 ## Contato
 
 <p align="left">
