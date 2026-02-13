@@ -4,16 +4,16 @@
 <h3 align="center">Desenvolvedor em formação | Front-end & Back-end</h3>
 
 <p align="center">
-  Sempre evoluindo, sempre construindo. Transformando aprendizado em projetos reais.
+  Sempre evoluindo, sempre construindo. Transformando aprendizado em projetos reais.
 </p>
 
 ---
 
 ## Sobre mim
 
-💻 Desenvolvedor em formação  
-📚 Sempre aprendendo novas tecnologias  
-🛠️ Construindo meu portfólio com foco em evolução constante  
+💻 Desenvolvedor em formação  
+📚 Sempre aprendendo novas tecnologias  
+🛠️ Construindo meu portfólio com foco em evolução constante  
 🎯 Objetivo: me tornar um excelente desenvolvedor
 
 ---
@@ -23,9 +23,9 @@
 ### Front-end
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ### Back-end
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ### Análise de Dados
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
 ---
@@ -51,9 +51,9 @@
 ### Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
 ---
@@ -80,13 +80,12 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  ⭐ Obrigado por visitar meu perfil!
 </p>
 
 <p align="center">
-  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"5px">
+  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif" height="150px">
 </p>
