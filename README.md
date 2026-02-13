@@ -79,14 +79,8 @@
 ---
 
 <p align="center">
-
   ⭐ Obrigado por visitar meu perfil!
-
-</p>
-
-
-<p align="center">
- <img src="https://i.pinimg.com/originals/d9/6e/5a/d96e5a6378c00a1fca5fcdf3e4dcf02b.gif">
+ <img src="[https://i.pinimg.com/originals/d9/6e/5a/d96e5a6378c00a1fca5fcdf3e4dcf02b.gif](https://media.tenor.com/C9wENJzY6fEAAAAj/tails-cute.gif)">
 </p>
 
 
