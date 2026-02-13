@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"50px">
+  <img src="https://ignitedmoth.wordpress.com/wp-content/uploads/2018/05/tails-gif2.gif"5px">
 </p>
 
 ---
