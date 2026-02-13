@@ -76,11 +76,10 @@ melhore o código que eu uso no readme.md de perfil do github para corrigir poss
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-silva-03670920a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;
   <a href="mailto:eduvortexx@icloud.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="email" width="40" height="40">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Email">
   </a>
 </p>
 
