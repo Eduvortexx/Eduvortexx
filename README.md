@@ -11,10 +11,11 @@
 
 ## Sobre mim
 
-💻 Desenvolvedor em formação  
-📚 Sempre aprendendo novas tecnologias  
-🛠️ Construindo meu portfólio com foco em evolução constante  
-🎯 Objetivo: me tornar um excelente desenvolvedor
+- Escritor
+- Desenvolvedor em formação  
+- Sempre aprendendo novas tecnologias  
+- Construindo meu portfólio com foco em evolução constante  
+- Objetivo: me tornar um excelente desenvolvedor
 
 ---
 
