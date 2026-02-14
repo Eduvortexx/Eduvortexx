@@ -64,7 +64,7 @@
 | Projeto | Descrição | Tecnologias | Status |
 |----------|------------|--------------|----------|
 | [FeedLyze](https://github.com/Eduvortexx/FeedLyze) | Sistema web para análise de feedbacks | HTML, CSS, Node.js | 🕝 Em desenvolvimento |
-| [Currículo Web](https://github.com/Eduvortexx/MeuCurr-ruloWeb) | Página pessoal minimalista com dark mode | HTML, CSS, JavaScript | 🕝 Em desenvolvimento |
+| [Currículo Web](https://github.com/Eduvortexx/MeuCurr-ruloWeb) | Página pessoal minimalista com dark mode | HTML, CSS, JavaScript | ✅ Concluído |
 | [Projeto Python – Análise de Dados](https://github.com/Eduvortexx/Challenge-Python) | Projeto de análise e exploração de dados | Python | ✅ Concluído |
 | [Jogo do Número Secreto](https://github.com/Eduvortexx/jogo-do-n-mero-secreto) | Jogo simples de sorteio de número | HTML, CSS, JavaScript | ✅ Concluído |
 
