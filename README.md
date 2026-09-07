@@ -15,7 +15,7 @@
 - Desenvolvedor em formação  
 - Sempre aprendendo novas tecnologias  
 - Construindo meu portfólio com foco em evolução constante  
-- Objetivo: me tornar um excelente desenvolvedor .NET.
+- Objetivo: me tornar um excelente desenvolvedor, focado em qualidade e segurança. 
 
 ---
 
